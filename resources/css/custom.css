@@ -1,0 +1,46 @@
+	@font-face{
+						font-family: SegoeCustom;
+						src: url(resources/fonts/segoeui.tff);
+						}
+			body{
+						font-family: "Segoe UI Regular","Segoe UI", SegoeCustom;
+				}
+/*color: #5C6166 */
+.header-color{
+	color: #5C6166;
+}
+.header{
+	font-size: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.settings-header{
+	font-size: 20px;
+	color: #000000;
+}
+.float{
+	float: right;
+	font-size: 12px;
+}
+.padding-header{
+	padding-top: 20px;
+}
+.titles{
+	font-size: 15px;
+	font-weight: 500;
+}
+.content-show{
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 12px;
+	margin-right: 20px;
+}
+.button-spacing{
+	padding-top: 10px;
+}
+th, td{
+	padding-left: 10px;
+}
+th{
+	border-bottom: 1px solid #ddd;
+}
